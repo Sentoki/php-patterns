@@ -1,0 +1,1 @@
+#Strategy pattern with interfaces
